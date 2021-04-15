@@ -4,8 +4,11 @@ Sparks Foundation Web Development Internship Project : Basic Banking System webs
 The website has the following specification -
 
 (a). A dummy data for upto 10 customers
+
 (b). Customers table with basic fields such as name, email, current balance etc.
+
 (c). Transaction status
+
 (d). Transfer table/ Transfer History which records all the transactions
 
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
